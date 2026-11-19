@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:           </h3>
-<h3>Register Number/Staff Id:          </h3>
+<h1>Name: SUNDARESH K </h1>
+<h1>Register Number: 212225220111</h1>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -263,5 +263,10 @@ while True:
        print("Match Draw!")
        break
 ```
+## OUTPUT:
+<img width="742" height="526" alt="image" src="https://github.com/user-attachments/assets/49ba3afa-4c60-4a51-83f8-d52f62848a01" />
+
+<img width="748" height="490" alt="image" src="https://github.com/user-attachments/assets/3d08e543-ad52-49c2-bb61-e84c7bc548e6" />
+
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
